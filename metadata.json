@@ -1,0 +1,14 @@
+{
+    "name": "Q2A Display Full Name",
+    "uri": "",
+    "description": "Display Full Name with Twitter style",
+    "version": "0.1b4",
+    "date": "2020-12-05",
+    "author": "q2aprick",
+    "author_uri": "https://github.com/q2aprick",
+    "license": "GPLv2",
+    "update_uri": "",
+    "min_q2a": "1.7",
+    "min_php": "5.2",
+    "load_order": "after_db_init"
+}
