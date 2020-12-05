@@ -1,7 +1,6 @@
 <?php
 
-  	// override for qa-app-users.php qa_get_one_user_html() function
-	//
+  
 	function qa_get_one_user_html($handle, $microdata = false, $favorited = false)
 	{
 		if (strlen($handle) === 0) {
